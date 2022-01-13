@@ -22,5 +22,5 @@ Emile Smith Rowe, Emmanuel Dennis and Mohamed Salah are elites, not only have ma
 
 ## Best goalkeepers(at pleast 10 full games played):
 X axis shows how many sweeping actions a player has, Y axis shows how good a player is at saving shots(compared to average keepers)
-![keeper](goalkeeper.png)
+![keeper](keeper.png)
 David de Gea and Jose Sa are two standouts this season at shot-stopping, especially David de Gea faced very difficult to save shots, but he shows his limitation at sweeping outside of penalty box.
