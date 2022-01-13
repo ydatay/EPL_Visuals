@@ -1,4 +1,5 @@
 # data files
+*.xls
 *.xlsx
 *.csv
 *.png
