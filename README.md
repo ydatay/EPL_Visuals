@@ -20,6 +20,13 @@ Emile Smith Rowe, Emmanuel Dennis and Mohamed Salah are elites, not only have ma
 
 
 
+## Best defenders(at pleast 10 full games played):
+X axis shows how many interceptions per 90 mins player has, Y axis shows how many tackles per 90mins player has
+![defender](defender.png)
+There are two distinct playstyles, on lower right corner are players with high number of interceptions but not many tacles; on top of the graph are players who loves to tackle, but dont intercept as much.
+
+
+
 ## Best goalkeepers(at pleast 10 full games played):
 X axis shows how many sweeping actions a player has, Y axis shows how good a player is at saving shots(compared to average keepers)
 ![keeper](keeper.png)
