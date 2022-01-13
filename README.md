@@ -1,6 +1,6 @@
 # EPL_Visuals
-Visualization of English Premier League stats
-detailed work in [my workbook](EPL_Visual_workbook.ipynb)
+Visualization of English Premier League stats, detailed work in [my workbook](EPL_Visual_workbook.ipynb)
+
 raw data from [fbref.com](https://fbref.com/en/comps/9/Premier-League-Stats)
 
 last updated: Jan 13, 2022
